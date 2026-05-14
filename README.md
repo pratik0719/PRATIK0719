@@ -35,7 +35,4 @@ Stay updated with projects by  following on Instagram, Facebook and Twitter.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
