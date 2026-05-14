@@ -34,6 +34,6 @@ Stay updated with projects by  following on Instagram, Facebook and Twitter.
 [![](https://komarev.com/ghpvc/?username=pratik0719&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- ramdom commit-->
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
